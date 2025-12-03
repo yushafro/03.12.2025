@@ -11,6 +11,8 @@ The following environment variables are available:
 
 ## Running
 
+Before running, download dependencies: `go mod download`
+
 To run the server, execute the following command:
 `make`
 
